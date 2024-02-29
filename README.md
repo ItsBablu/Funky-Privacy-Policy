@@ -15,7 +15,7 @@ At Trick, we store user IDs and server IDs in our database to provide a personal
 
 How we use this information
 We use the information collected to provide and improve our services. This includes:
--Providing features such as AntiNuke, Tickets, Automod, Welcomer and more
+-Providing features such as Music, Utility and more
 -Logging server activity for moderation purposes
 -Responding to support requests
 
