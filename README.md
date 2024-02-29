@@ -9,6 +9,10 @@ When you use Funky on your Discord server, we may collect the following informat
 -Channel ID
 We may also collect additional information from you if you contact us for support or to provide feedback.
 
+Storage of User IDs and Server IDs:
+
+At Trick, we store user IDs and server IDs in our database to provide a personalized and enhanced user experience. This information helps us to deliver tailored services, such as tracking individual user progress, managing inventories, and ensuring a seamless interaction within our bot.
+
 How we use this information
 We use the information collected to provide and improve our services. This includes:
 -Providing features such as AntiNuke, Tickets, Automod, Welcomer and more
